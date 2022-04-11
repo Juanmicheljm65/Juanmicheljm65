@@ -1,4 +1,4 @@
-## Oiii eu sou o Juan Michel, estudante de desenvolvimento full stack.
+## Oiii eu sou o Juan, estudante de desenvolvimento full stack.
  - Trabalhando como Jovem Aprendiz de Dados na OLX Brasil
  - Estudando Html, Css, Javascript, Node e MySQL
  - Pronomes: Ele/Dele
