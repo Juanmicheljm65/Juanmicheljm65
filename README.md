@@ -4,7 +4,7 @@
 - 🌱 Estudando Html, Css, Javascript, Node e MySQL
 - 😄 Pronomes: Ele/Dele
 
-<div align="center">
+<div>
   <a href="https://github.com/Juanmicheljm65">
   <img max-width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Juanmicheljm65&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img max-width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanmicheljm65&layout=compact&langs_count=7&theme=radical"/>
