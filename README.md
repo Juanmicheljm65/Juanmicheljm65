@@ -1,6 +1,6 @@
-## Oiii eu sou o Juan, estudante de desenvolvimento full stack.
+## Oiii eu sou o Juan, estudante de desenvolvimento front-end.
  - Trabalhando como Jovem Aprendiz de Dados na OLX Brasil
- - Estudando Html, Css, Javascript, Node e MySQL
+ - Estudando Html, Css, Javascript, Angular
  - Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/Juanmicheljm65">
