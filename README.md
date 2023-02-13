@@ -1,6 +1,6 @@
-## Oiii eu sou o Juan, estudante de desenvolvimento front-end.
- - Trabalhando como Jovem Aprendiz de Dados na OLX Brasil
- - Estudando Html, Css, Javascript, Angular, Bootstrap
+## Oiii eu sou o Juan, Desenvolvedor Front-end.
+ - Trabalhando como Desenvolvedor Front-end no Banco Pan.
+ - Estudando Html, Css, Javascript, Angular, Bootstrap.
  - Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/Juanmicheljm65">
@@ -26,4 +26,4 @@
     
   </div>
   
-  ![Snake animation](https://github.com/Juanmicheljm65/Juanmicheljm65/blob/output/github-contribution-grid-snake.svg)
+ 
