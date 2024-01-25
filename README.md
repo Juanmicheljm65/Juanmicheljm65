@@ -1,6 +1,7 @@
 ## Oiii eu sou o Juan, Desenvolvedor Front-end.
  - Trabalhando como Desenvolvedor Front-end no Banco Pan.
- - Estudando Html, Css, Sass, Javascript, Typescript, Jest, Bootstrap.
+ - Skills técnicas: Html, Css, Sass, Javascript, Typescript, Jest, Bootstrap.
+ - Estudando: React, React Native.
  - Pronomes: Ele/Dele
 <div align="center">
   <a href="https://github.com/Juanmicheljm65">
