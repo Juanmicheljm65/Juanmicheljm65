@@ -18,6 +18,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   
   
 </div>
