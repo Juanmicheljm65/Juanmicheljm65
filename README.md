@@ -1,8 +1,7 @@
-## Oiii eu sou o Juan, Desenvolvedor Front-end estudando Back-end.
+## Oiii eu sou o Juan, Desenvolvedor Front-end.
  - Trabalhando como Desenvolvedor Front-end no Banco Pan.
- - Skills técnicas: Html, Css, Sass, Javascript, Typescript, Jest, Bootstrap e GIT.
- - Estudando: Java.
- - Pronomes: Ele/Dele
+ - Skills técnicas: Html, Css, Sass, Javascript, Typescript, Angular, Jest, Bootstrap, GIT.
+
 <div align="center">
   <a href="https://github.com/Juanmicheljm65">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juanmicheljm65&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -20,7 +19,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor">
   <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
-   <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=currentColor" />
   
   
   
